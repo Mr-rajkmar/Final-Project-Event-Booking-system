@@ -1,4 +1,6 @@
 # 🎉 Event Booking System
+username: Admin
+password: Singtan@123
 
 A full-stack Event Booking System built using:
 
